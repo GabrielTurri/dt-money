@@ -14,3 +14,6 @@
   </p>
 </div>
 
+## Technologies
+* styled-components
+* JSON Server (only used on development, but it setup a future API connection)
