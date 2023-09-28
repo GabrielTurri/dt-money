@@ -9,12 +9,36 @@
       "createdAt": "2023-09-26T15:12:40.572Z"
     },
     {
-      "id": 1,
+      "id": 2,
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
       "price": 35,
       "createdAt": "2023-09-26T15:23:40.572Z"
+    },
+    {
+      "description": "Venda de livro",
+      "price": 40,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-09-28T16:04:14.491Z",
+      "id": 3
+    },
+    {
+      "description": "Pizza",
+      "price": 60,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-28T16:06:36.202Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 17,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-28T18:31:29.484Z",
+      "id": 5
     }
   ]
 }
