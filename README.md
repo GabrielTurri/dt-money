@@ -15,7 +15,7 @@
 </div>
 
 ## About the Project
-DT Money is a expense tracking project for managing your finances with API consuming, forms, measuring performance and taking care with the accessibility using React.js.
+DT Money is an expense tracking project for managing your finances with API consuming, forms, measuring performance and taking care with the accessibility using React.js.
 
 ## Technologies
 * styled-components;
